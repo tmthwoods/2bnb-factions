@@ -1,0 +1,10 @@
+class CfgVehicles {
+	class B_Soldier_F;
+	class B_medic_F;
+	class B_Soldier_SL_F;
+	class UK3CB_BAF_B_Bergen_DPMW_JTAC_H_A; // include all custom backpacks
+	#include "Woodland.hpp" // Woodland Classes
+	#include "Desert.hpp" // Desert classes
+	#include "MTP.hpp" // MTP classes
+	#include "Winter.hpp" // Winter classes
+};
